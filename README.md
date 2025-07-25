@@ -9,6 +9,7 @@ A sleek, responsive web app that allows users to search for any country and inst
 3. Modern UI — Styled with Bootstrap 5 and a full-screen Unsplash background for a clean and engaging user experience.
 4. Responsive Design — Mobile-friendly and visually centered layout.
 5. Geolocation-based Fetching — Converts country names to latitude and longitude using the OpenCage API.
+
 # Built With
 1. HTML5
 2. CSS3
@@ -26,6 +27,7 @@ https://github.com/Pratishtha103/Weather-Details-Website-using-API.git
 This project uses:
 1. OpenCage Geocoding API
 2. OpenWeatherMap API
+
 To use your own keys:
 1. Replace the values of api1 and api2 in the JavaScript with your personal API keys:
 
@@ -43,7 +45,9 @@ This project demonstrates:
 
 # Contributing
 Pull requests are welcome! Feel free to fork the repo and submit a PR for improvements or new features.
+
 # License
 This project is open source and available under the MIT License.
+
 # Contact
 Made with <3 by Pratishtha.
