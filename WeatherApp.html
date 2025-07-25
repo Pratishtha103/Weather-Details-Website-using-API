@@ -269,7 +269,7 @@
         
         //weather details using latitude and longtitude, open weather map api
         async function weather(lat, lng, country){
-            const api2= "c599a4bc4f6fbe1c6e6917df1d3f72a7";
+            const api2 = 'YOUR_OPENWEATHERMAP_API_KEY';
             const urlTwo = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lng}&appid=${api2}&units=metric`;
             try{
                 const responseTwo = await fetch(urlTwo);
@@ -316,7 +316,7 @@
         }
         //convert country to longitude and latitude
         async function countryToLongLat(country){
-            const api1 = '588f42e177044250bf01dd811a5db9f4';
+            const api1 = 'YOUR_OPENCAGE_API_KEY';
             const url=`https://api.opencagedata.com/geocode/v1/json?q=${country}&key=${api1}`;
             try{
                 const heading = document.getElementById('heading');
