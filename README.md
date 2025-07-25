@@ -29,7 +29,8 @@ This project uses:
 2. OpenWeatherMap API
 
 To use your own keys:
-1. Replace the values of api1 and api2 in the JavaScript with your personal API keys:
+
+Replace the values of api1 and api2 in the JavaScript with your personal API keys:
 
 const api1 = 'YOUR_OPENCAGE_API_KEY';
 
