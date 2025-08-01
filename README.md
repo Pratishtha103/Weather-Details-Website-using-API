@@ -22,6 +22,7 @@ A sleek, responsive web app that allows users to search for any country and inst
 1. Clone the repository:
 
  git clone https://github.com/Pratishtha103/Weather-Details-Website-using-API.git
+
 2. Open WeatherApp.html in your browser.
 
 # API Keys
